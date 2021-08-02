@@ -5,6 +5,9 @@ tags: モンテカルロ法,シミュレーション
 
 # モンテカルロ法で日本経済をシミュレーションしたい！
 
+[![hackmd-github-sync-badge](https://hackmd.io/idG386JaToyCCoTAQwUVNQ/badge)](https://hackmd.io/idG386JaToyCCoTAQwUVNQ)
+
+
 ## モデル
 投資 $I$
 稼働率 $r$
